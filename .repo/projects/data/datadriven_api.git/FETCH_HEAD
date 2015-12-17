@@ -1,0 +1,9 @@
+dd7980860e344edbcc7d7758deb34898a17f87cf		branch 'RB14.12' of https://git.allseenalliance.org/gerrit/data/datadriven_api
+6a187f4fa5afd1d9ae8d769bf6c3b1edf48fb565		branch 'RB15.04' of https://git.allseenalliance.org/gerrit/data/datadriven_api
+2d990af141b1017509f8dcc6803b7d61013844f3		branch 'master' of https://git.allseenalliance.org/gerrit/data/datadriven_api
+2a443471efeaded0cc9daf5e56c58e0542f02699	not-for-merge	tag 'v14.12' of https://git.allseenalliance.org/gerrit/data/datadriven_api
+3bd03295b0eab9c9898cbf5b3a375901bf2504b4	not-for-merge	tag 'v14.12rc1' of https://git.allseenalliance.org/gerrit/data/datadriven_api
+31e1e5848ab6cbde09fc46bf057faccf46e21455	not-for-merge	tag 'v15.04' of https://git.allseenalliance.org/gerrit/data/datadriven_api
+8fd5aac10150c70a12c5dea5b069ac2f125953ba	not-for-merge	tag 'v15.04-rc1' of https://git.allseenalliance.org/gerrit/data/datadriven_api
+067bc805825a33b683a27894ee5cf368ef9c4fbb	not-for-merge	tag 'v15.04-rc2' of https://git.allseenalliance.org/gerrit/data/datadriven_api
+d8192d7dba198afa9fbdc930a437ea5d747231d3	not-for-merge	tag 'v15.04-rc3' of https://git.allseenalliance.org/gerrit/data/datadriven_api

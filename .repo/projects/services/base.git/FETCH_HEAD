@@ -1,0 +1,12 @@
+db8be9b559699e335d44035da8c18daf136e22d2		branch 'RB14.06' of https://git.allseenalliance.org/gerrit/services/base
+a9a6489ebc8eb6ce1a57d78b16ea0ad794fcf048		branch 'RB14.12' of https://git.allseenalliance.org/gerrit/services/base
+51d6850f77036fcfd624c54fd8d840748ab2aca5		branch 'RB15.04' of https://git.allseenalliance.org/gerrit/services/base
+b824621de19797a5f0e38c3eed8fb29426b665d6		branch 'RB15.09' of https://git.allseenalliance.org/gerrit/services/base
+6e41936103a2f202c47ed3e4172b7e7ad083353c		branch 'feature/time' of https://git.allseenalliance.org/gerrit/services/base
+50acdbb2591342f73003a8b0eac4511c895ba09c		branch 'feature/windowsonboarding' of https://git.allseenalliance.org/gerrit/services/base
+64bce1a30f01222dea248fa40d2817d72ba0d390		branch 'master' of https://git.allseenalliance.org/gerrit/services/base
+2f213a070c7745cd7b8296a163f591789e14bbf6	not-for-merge	tag 'v14.06' of https://git.allseenalliance.org/gerrit/services/base
+07af51c991ebfaf454b0a54eff52317ea8ba3efd	not-for-merge	tag 'v14.06_beta' of https://git.allseenalliance.org/gerrit/services/base
+c8221aec35737c1bd95976acbfdb50c361c397be	not-for-merge	tag 'v14.12' of https://git.allseenalliance.org/gerrit/services/base
+74d360f8de818916de7bea71f5b4bd6110416ad8	not-for-merge	tag 'v15.04' of https://git.allseenalliance.org/gerrit/services/base
+08292820c1e4b81ed8ecdf515f7bab6c5609b0ae	not-for-merge	tag 'v15.09' of https://git.allseenalliance.org/gerrit/services/base

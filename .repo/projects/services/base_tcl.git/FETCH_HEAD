@@ -1,0 +1,13 @@
+fdd6e156e536bc8e7f0f9a70b6bdcadfa027f42a		branch 'RB14.06' of https://git.allseenalliance.org/gerrit/services/base_tcl
+c0867c9bd03680197a811ee462247eaaed7011cb		branch 'RB14.12' of https://git.allseenalliance.org/gerrit/services/base_tcl
+91fcc0a2bdffd9630de71cc9c4d660c0d508841e		branch 'RB15.04' of https://git.allseenalliance.org/gerrit/services/base_tcl
+c7589b04f052ecf805b66986dabd00827364f570		branch 'RB15.09' of https://git.allseenalliance.org/gerrit/services/base_tcl
+0e6bebd229c16e7f5d714da23080463da0075951		branch 'feature/LSF_14.06' of https://git.allseenalliance.org/gerrit/services/base_tcl
+33a34524d6cb0492da6719bdcd329e46a84025db		branch 'feature/tc_reorg' of https://git.allseenalliance.org/gerrit/services/base_tcl
+1f16592ecfbf405f2d61036af99d6eed3be60c4a		branch 'feature/time' of https://git.allseenalliance.org/gerrit/services/base_tcl
+f02248779d093743bc047b05449be70b95b60e7e		branch 'master' of https://git.allseenalliance.org/gerrit/services/base_tcl
+fd34e078a91ab401efb40cdd576f833404515a93	not-for-merge	tag 'v14.06' of https://git.allseenalliance.org/gerrit/services/base_tcl
+14cf110640d808cbdf01985d73b5ffad7151f40e	not-for-merge	tag 'v14.06_beta' of https://git.allseenalliance.org/gerrit/services/base_tcl
+7e4b706f6908c8661d4caac53a0c946f430cc389	not-for-merge	tag 'v14.12' of https://git.allseenalliance.org/gerrit/services/base_tcl
+570166b31af435047e614b9206ab3358ba71db34	not-for-merge	tag 'v15.04' of https://git.allseenalliance.org/gerrit/services/base_tcl
+1a9ea42ad251b3243217d675eaf888f867914831	not-for-merge	tag 'v15.09' of https://git.allseenalliance.org/gerrit/services/base_tcl

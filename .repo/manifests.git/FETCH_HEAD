@@ -1,0 +1,9 @@
+f5b8666fdb0ddcd83187cf03826c068317a753a0		branch 'RB14.02' of https://git.allseenalliance.org/gerrit/devtools/manifest
+54702467b7fca59284e8268474b612b1ae788e2f		branch 'RB14.06' of https://git.allseenalliance.org/gerrit/devtools/manifest
+6e38ab97df7954f6b4eb6fb288ba586cb8db7bf2		branch 'RB14.12' of https://git.allseenalliance.org/gerrit/devtools/manifest
+de2dfe0c2df13905a2fcb2dfadf6c1ba63871f91		branch 'RB15.04' of https://git.allseenalliance.org/gerrit/devtools/manifest
+63d436f242c0ccfdadfc6531afd088da9023316a		branch 'RB15.09' of https://git.allseenalliance.org/gerrit/devtools/manifest
+a1b774b0dbe79a1a1de42865a0f5ac86136770b8		branch 'master' of https://git.allseenalliance.org/gerrit/devtools/manifest
+0f9584ad2ca821901eb9461dc28d3ee7d41bb84d	not-for-merge	tag 'v14.02' of https://git.allseenalliance.org/gerrit/devtools/manifest
+7888a4b3a5b263cafb399e01c455dadfaddb5fd1	not-for-merge	tag 'v14.06' of https://git.allseenalliance.org/gerrit/devtools/manifest
+bb27fe0b5b0cd90c09ff23be875b1aacf284de82	not-for-merge	tag 'v14.06_beta' of https://git.allseenalliance.org/gerrit/devtools/manifest

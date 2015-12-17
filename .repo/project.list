@@ -1,0 +1,13 @@
+compliance/tests
+core/ajtcl
+core/alljoyn
+core/alljoyn-js
+core/test
+data/datadriven_api
+devtools/codegen
+gateway/gwagent
+lighting/service_framework
+multimedia/audio
+services/base
+services/base_tcl
+services/notification_viewer

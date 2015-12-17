@@ -1,0 +1,26 @@
+{
+  "core.filemode": [
+    "true"
+  ], 
+  "remote.origin.projectname": [
+    "core/alljoyn-js"
+  ], 
+  "core.repositoryformatversion": [
+    "0"
+  ], 
+  "core.ignorecase": [
+    "true"
+  ], 
+  "remote.origin.review": [
+    "git.allseenalliance.org/gerrit/"
+  ], 
+  "remote.origin.url": [
+    "https://git.allseenalliance.org/gerrit/core/alljoyn-js"
+  ], 
+  "core.precomposeunicode": [
+    "true"
+  ], 
+  "remote.origin.fetch": [
+    "+refs/heads/*:refs/remotes/origin/*"
+  ]
+}

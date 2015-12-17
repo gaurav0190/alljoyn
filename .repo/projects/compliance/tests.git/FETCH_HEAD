@@ -1,0 +1,11 @@
+978b53527211540aa9b53bff19846da96a87314f		branch 'RB14.02' of https://git.allseenalliance.org/gerrit/compliance/tests
+225a11d714d81ffca410709741f5f2922da48570		branch 'RB14.06' of https://git.allseenalliance.org/gerrit/compliance/tests
+f936fc2e2947453f0bb976732f6d2da4f0b31950		branch 'RB14.12' of https://git.allseenalliance.org/gerrit/compliance/tests
+3ae03a41b0bbe213f3313745d1bf4569d8ffe1a1		branch 'RB15.04' of https://git.allseenalliance.org/gerrit/compliance/tests
+8c1b0a70854a07dc527637d482c737e302e0dd22		branch 'RB15.09' of https://git.allseenalliance.org/gerrit/compliance/tests
+a2c5481ab9ad0801d33a404d58a73c000a15d760		branch 'master' of https://git.allseenalliance.org/gerrit/compliance/tests
+440c714c1ee5a71427c8f7510d159dbbe44cc688	not-for-merge	tag '14.06.00a.03' of https://git.allseenalliance.org/gerrit/compliance/tests
+d4f68d22e5a3759e56d0dd56ca8d0e4ca73e3553	not-for-merge	tag '14.12.00b.02' of https://git.allseenalliance.org/gerrit/compliance/tests
+47a898e92d5d9eabd708eaf881b89cbfc1a9fb58	not-for-merge	tag 'compatible-14.02' of https://git.allseenalliance.org/gerrit/compliance/tests
+4adf217a6fdd81396370d320537d2f70cb4ab950	not-for-merge	tag 'services-v14.12' of https://git.allseenalliance.org/gerrit/compliance/tests
+30811e088397546b41400611a2eced48c5d6117b	not-for-merge	tag 'services-v15.09' of https://git.allseenalliance.org/gerrit/compliance/tests

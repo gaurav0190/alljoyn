@@ -1,0 +1,26 @@
+{
+  "core.filemode": [
+    "true"
+  ], 
+  "remote.origin.projectname": [
+    "services/base_tcl"
+  ], 
+  "core.repositoryformatversion": [
+    "0"
+  ], 
+  "core.ignorecase": [
+    "true"
+  ], 
+  "remote.origin.review": [
+    "git.allseenalliance.org/gerrit/"
+  ], 
+  "remote.origin.url": [
+    "https://git.allseenalliance.org/gerrit/services/base_tcl"
+  ], 
+  "core.precomposeunicode": [
+    "true"
+  ], 
+  "remote.origin.fetch": [
+    "+refs/heads/*:refs/remotes/origin/*"
+  ]
+}

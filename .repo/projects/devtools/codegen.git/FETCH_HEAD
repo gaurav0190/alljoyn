@@ -1,0 +1,13 @@
+42e901e25b9a79b7ee71c135ba425b0f1244b044		branch 'RB14.02' of https://git.allseenalliance.org/gerrit/devtools/codegen
+8210a630c5957953c5cd70d7d9313aa277154d52		branch 'RB14.06' of https://git.allseenalliance.org/gerrit/devtools/codegen
+57da5f3d5975d3512c360a08b9dedb20ba54227b		branch 'RB14.12' of https://git.allseenalliance.org/gerrit/devtools/codegen
+76f71604e2010c0683a7d66e8d5f5db690cc3096		branch 'RB15.04' of https://git.allseenalliance.org/gerrit/devtools/codegen
+1bdc90ca9635adcb6d85da9f5bee1b5b2c86fae0		branch 'RB15.09' of https://git.allseenalliance.org/gerrit/devtools/codegen
+03b0c8f1b402dc1faf662f3e25f6149351ca793e		branch 'feature/datadriven_api' of https://git.allseenalliance.org/gerrit/devtools/codegen
+1bdc90ca9635adcb6d85da9f5bee1b5b2c86fae0		branch 'master' of https://git.allseenalliance.org/gerrit/devtools/codegen
+c3a00a3236254a5ac67c025644b60e9bb840581d	not-for-merge	tag 'v14.02' of https://git.allseenalliance.org/gerrit/devtools/codegen
+7e22840443b40ae35e01538d1a96beda5793d561	not-for-merge	tag 'v14.06' of https://git.allseenalliance.org/gerrit/devtools/codegen
+b8f95580837f70407da2ec819cde3d8b72922c01	not-for-merge	tag 'v14.12' of https://git.allseenalliance.org/gerrit/devtools/codegen
+0c15306fb81e82899e8c4818de2b579d8b434c94	not-for-merge	tag 'v15.04' of https://git.allseenalliance.org/gerrit/devtools/codegen
+8d694e31dda628f0a7686a4fc1d04444b0980e4e	not-for-merge	tag 'v15.09' of https://git.allseenalliance.org/gerrit/devtools/codegen
+4771b5248bdf5441eb4fea46f72d9add1a04b1b3	not-for-merge	tag 'v15.09-rc0' of https://git.allseenalliance.org/gerrit/devtools/codegen

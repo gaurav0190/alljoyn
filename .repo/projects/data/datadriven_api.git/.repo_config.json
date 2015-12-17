@@ -1,0 +1,26 @@
+{
+  "core.filemode": [
+    "true"
+  ], 
+  "remote.origin.projectname": [
+    "data/datadriven_api"
+  ], 
+  "core.repositoryformatversion": [
+    "0"
+  ], 
+  "core.ignorecase": [
+    "true"
+  ], 
+  "remote.origin.review": [
+    "git.allseenalliance.org/gerrit/"
+  ], 
+  "remote.origin.url": [
+    "https://git.allseenalliance.org/gerrit/data/datadriven_api"
+  ], 
+  "core.precomposeunicode": [
+    "true"
+  ], 
+  "remote.origin.fetch": [
+    "+refs/heads/*:refs/remotes/origin/*"
+  ]
+}

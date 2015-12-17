@@ -1,0 +1,27 @@
+8b394f4852c2b504b50ff6afbc947224423d33fc		branch 'RB14.02' of https://git.allseenalliance.org/gerrit/core/ajtcl
+5230b5eed502e33e533274daacea53601877233f		branch 'RB14.06' of https://git.allseenalliance.org/gerrit/core/ajtcl
+7892a9eed2d0945189210479ad275d3ab997c37f		branch 'RB14.12' of https://git.allseenalliance.org/gerrit/core/ajtcl
+f47b15dc0c9565a505f18157ce7e33086ad802ac		branch 'RB15.04' of https://git.allseenalliance.org/gerrit/core/ajtcl
+111dce51d3fd3b2f2ecf838c717ad860a306921f		branch 'RB15.09' of https://git.allseenalliance.org/gerrit/core/ajtcl
+f1cb68286cf244a42ececdf8d3e198d26bd5aca3		branch 'feature/Sec2.0_patch' of https://git.allseenalliance.org/gerrit/core/ajtcl
+6e373ee73ed18b788b125fd5e00378c77b3ca510		branch 'feature/asacore-803' of https://git.allseenalliance.org/gerrit/core/ajtcl
+acc56fb434660bf4f3fb317a388a66d49c6e69c9		branch 'feature/bindings' of https://git.allseenalliance.org/gerrit/core/ajtcl
+c6b3abea8f48ede34df0ca7276746c99b35d1e96		branch 'feature/btle-transport' of https://git.allseenalliance.org/gerrit/core/ajtcl
+c5aa125e1573c3cfb16c0c60101ce0c0ac8c6390		branch 'feature/hackfest' of https://git.allseenalliance.org/gerrit/core/ajtcl
+b47ef976dc1450e333332b89d97f997fb0b61bde		branch 'feature/mqtt' of https://git.allseenalliance.org/gerrit/core/ajtcl
+b98e2b750d7ace79faaa4ef2190ff3aa5f7413de		branch 'feature/security2.0' of https://git.allseenalliance.org/gerrit/core/ajtcl
+a2451404400b4f51966b4e9916a430145e54a936		branch 'feature/tc_ardp' of https://git.allseenalliance.org/gerrit/core/ajtcl
+060d3eb7c88aee63b748af4d0efe4c76c24e7871		branch 'feature/tc_reorg' of https://git.allseenalliance.org/gerrit/core/ajtcl
+4a0c1ad510bcd74aa14036218b35e9de4744c52e		branch 'legacy-03.04.00' of https://git.allseenalliance.org/gerrit/core/ajtcl
+c84344242f0fe08f39ed1ccb331b192b6b277fb0		branch 'master' of https://git.allseenalliance.org/gerrit/core/ajtcl
+55e8162644122ebcaf5ec04cbd69eae0ab684053	not-for-merge	tag 'legacy-03.04.05' of https://git.allseenalliance.org/gerrit/core/ajtcl
+084d75e27c59100d9050187a534b3e46588e612c	not-for-merge	tag 'v14.02' of https://git.allseenalliance.org/gerrit/core/ajtcl
+b4cbee5799efd95bc8e2ae380aa76afb20656304	not-for-merge	tag 'v14.06' of https://git.allseenalliance.org/gerrit/core/ajtcl
+51ccee5a74226170a3ca404fa3ee12c872d4ed88	not-for-merge	tag 'v14.06_beta' of https://git.allseenalliance.org/gerrit/core/ajtcl
+8dd51db6977768e25bfe0ae92997e5656e3be109	not-for-merge	tag 'v14.06a' of https://git.allseenalliance.org/gerrit/core/ajtcl
+c2eba1cddc2cf8082eed7f3379907c5ea51950dd	not-for-merge	tag 'v14.12' of https://git.allseenalliance.org/gerrit/core/ajtcl
+3284a67941f6845b6163edba66ad2b3e675dcc44	not-for-merge	tag 'v15.04' of https://git.allseenalliance.org/gerrit/core/ajtcl
+97d5a4d808f68bf70efd1f95ef8bddbcdb56c687	not-for-merge	tag 'v15.04a' of https://git.allseenalliance.org/gerrit/core/ajtcl
+343efd5d4685380f492d3e357e34247e3f43b9b5	not-for-merge	tag 'v15.04b' of https://git.allseenalliance.org/gerrit/core/ajtcl
+20146a28eedd3fbaa2c961093369ed9dd0806558	not-for-merge	tag 'v15.09' of https://git.allseenalliance.org/gerrit/core/ajtcl
+d1e121b6ad8aa4a3c065059085144a7282206def	not-for-merge	tag 'v15.09a' of https://git.allseenalliance.org/gerrit/core/ajtcl

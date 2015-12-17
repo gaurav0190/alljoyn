@@ -1,0 +1,8 @@
+581c487f076a517c1c8d3cbd0a475e2de574e145		branch 'RB14.06' of https://git.allseenalliance.org/gerrit/lighting/service_framework
+7929b2af31737fb4b506f1a77d3ae3a245be055b		branch 'RB14.12' of https://git.allseenalliance.org/gerrit/lighting/service_framework
+53c3c0378ff3aee3a7ea8b03e05dc77630cce1eb		branch 'RB15.04' of https://git.allseenalliance.org/gerrit/lighting/service_framework
+aa3112fe2807143cd4694a5068e8daac3d721673		branch 'feature/applications' of https://git.allseenalliance.org/gerrit/lighting/service_framework
+7e2f6a300529e67aba421bd7a7e537a774bcc83d		branch 'master' of https://git.allseenalliance.org/gerrit/lighting/service_framework
+ac74ab42eb885b8110ba2fefdc122c3d029a452c	not-for-merge	tag 'v14.06' of https://git.allseenalliance.org/gerrit/lighting/service_framework
+c7627e2b7d9f33a14b9fe273ad5d4ed16588b7a1	not-for-merge	tag 'v14.12' of https://git.allseenalliance.org/gerrit/lighting/service_framework
+dbd0fd6629eb1bd8b96830339b7fb06a01f42e13	not-for-merge	tag 'v15.04' of https://git.allseenalliance.org/gerrit/lighting/service_framework

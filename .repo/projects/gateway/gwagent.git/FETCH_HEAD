@@ -1,0 +1,12 @@
+23cef3bdfc7fd8c180f047909b1261ff1e0353f5		branch 'RB14.12' of https://git.allseenalliance.org/gerrit/gateway/gwagent
+276dc40d511041c85f0814151da15ea155bc04e6		branch 'feature/15.09support' of https://git.allseenalliance.org/gerrit/gateway/gwagent
+89923b5984787b2aa12574a7f45f1b7efe628c15		branch 'feature/ASAGW-66' of https://git.allseenalliance.org/gerrit/gateway/gwagent
+89923b5984787b2aa12574a7f45f1b7efe628c15		branch 'feature/jsconnectors' of https://git.allseenalliance.org/gerrit/gateway/gwagent
+1faa23168dd5e7faee06164f95e2753c85e8bbc3		branch 'feature/packageManager' of https://git.allseenalliance.org/gerrit/gateway/gwagent
+89923b5984787b2aa12574a7f45f1b7efe628c15		branch 'master' of https://git.allseenalliance.org/gerrit/gateway/gwagent
+276dc40d511041c85f0814151da15ea155bc04e6		branch 'v15.04' of https://git.allseenalliance.org/gerrit/gateway/gwagent
+fb3381abb62d691da7fbbf90e579faba38e93a9d	not-for-merge	tag 'v14.06' of https://git.allseenalliance.org/gerrit/gateway/gwagent
+25e3a57ac0c75077095be322e59ed5abecb621f9	not-for-merge	tag 'v14.12' of https://git.allseenalliance.org/gerrit/gateway/gwagent
+ad6cb52cd591ed248f15b906f27a0e5960a960d8	not-for-merge	tag 'v14.12-rc1' of https://git.allseenalliance.org/gerrit/gateway/gwagent
+e606ec14c80227a9686c6221ae1a05c7d42fb85d	not-for-merge	tag 'v14.12-rc2' of https://git.allseenalliance.org/gerrit/gateway/gwagent
+c92b386bc2f7f96a0ebdf76758fc700d398f9735	not-for-merge	tag 'v14.12-rc3' of https://git.allseenalliance.org/gerrit/gateway/gwagent

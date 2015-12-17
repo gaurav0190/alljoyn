@@ -1,0 +1,38 @@
+fecc309b69eec9ae1c0ed9d66a5aca71c963de3c		branch 'RB14.02' of https://git.allseenalliance.org/gerrit/core/alljoyn
+9d096987205609053a9a656ebd72972ea92eff17		branch 'RB14.06' of https://git.allseenalliance.org/gerrit/core/alljoyn
+f077edece7b7890a7d242b84d7c3af46402eeef2		branch 'RB14.12' of https://git.allseenalliance.org/gerrit/core/alljoyn
+b613deacf90a4a341d12d1b679de28de99b76062		branch 'RB15.04' of https://git.allseenalliance.org/gerrit/core/alljoyn
+67ac42592077d8b5de09bcb91d54a6333c901d3e		branch 'RB15.09' of https://git.allseenalliance.org/gerrit/core/alljoyn
+f4ad8e6e6a8f9f1a1a51eb1d2226a8d7ba31fc9f		branch 'feature/Sec2.0_patch' of https://git.allseenalliance.org/gerrit/core/alljoyn
+eb735d5d371eecc7c194c21a56d35cca107ae2e9		branch 'feature/asacore-1808' of https://git.allseenalliance.org/gerrit/core/alljoyn
+7dbd66a6f0771de3d747fa1b7eb47dd73f2e8a4f		branch 'feature/btle-transport' of https://git.allseenalliance.org/gerrit/core/alljoyn
+2103988e929f95bdf49cde3f88cb1128bb6e383b		branch 'feature/crypto15.04' of https://git.allseenalliance.org/gerrit/core/alljoyn
+f313cceeb9e790390200ff3c0361cdff588a5b9e		branch 'feature/mqtt' of https://git.allseenalliance.org/gerrit/core/alljoyn
+4e298c672937b35259051c368d0a252dd4636afc		branch 'feature/proactor-reactor' of https://git.allseenalliance.org/gerrit/core/alljoyn
+3eb7a9763b3e7e6043e701fa316c2356b1dd1803		branch 'feature/propcache' of https://git.allseenalliance.org/gerrit/core/alljoyn
+742471e8a420608f3dd89539aadbed231a3eaf95		branch 'feature/security2.0' of https://git.allseenalliance.org/gerrit/core/alljoyn
+a3e16b9e247e2c065112239754db18df8b9b4208		branch 'feature/selfjoin' of https://git.allseenalliance.org/gerrit/core/alljoyn
+3bb11d8fb820005aaad687ef07ba4714320ffed1		branch 'feature/string-migration' of https://git.allseenalliance.org/gerrit/core/alljoyn
+8c7430179b7d8ceddbdf428b220d1205631d5aab		branch 'feature/tc_ardp' of https://git.allseenalliance.org/gerrit/core/alljoyn
+95141e49f5a0940f8ee9f56f7533637ff68779e2		branch 'feature/udp_transport' of https://git.allseenalliance.org/gerrit/core/alljoyn
+c3cfa363c41f484ee5b724c94e56ab5142c44709		branch 'legacy-03.04.00' of https://git.allseenalliance.org/gerrit/core/alljoyn
+bb736f4f5063d7bfd5fad2563ac8450fa2b6b3ab		branch 'master' of https://git.allseenalliance.org/gerrit/core/alljoyn
+e02fb710c0f70ff39a092939d99c39fb3bc18560	not-for-merge	tag 'legacy-03.04.05-generated' of https://git.allseenalliance.org/gerrit/core/alljoyn
+d5431f2f259e7cc134cf43688bd87477ed5a8447	not-for-merge	tag 'legacy-03.04.05-generated-2' of https://git.allseenalliance.org/gerrit/core/alljoyn
+efa6fa3efb62548911590b6e5055fcb04fd8ed62	not-for-merge	tag 'legacy-03.04.06' of https://git.allseenalliance.org/gerrit/core/alljoyn
+9cb03523041278729d8c2b02ec3c561d9086643e	not-for-merge	tag 'legacy-03.04.06-generated' of https://git.allseenalliance.org/gerrit/core/alljoyn
+20c14831dd05ed64601bc0479ac0dcaf096c32f9	not-for-merge	tag 'legacy-3.4.6-generated-2' of https://git.allseenalliance.org/gerrit/core/alljoyn
+be9f804b5311be2bf35aae0808f104ffaeccbfd5	not-for-merge	tag 'temp/extra-14.02' of https://git.allseenalliance.org/gerrit/core/alljoyn
+9d41b16d36611cf2c2edbd4d47599d4a03d82b82	not-for-merge	tag 'v14.02' of https://git.allseenalliance.org/gerrit/core/alljoyn
+1a66003e171db785701776409114b6c80f4bad6e	not-for-merge	tag 'v14.02-generated' of https://git.allseenalliance.org/gerrit/core/alljoyn
+edd0abf77f13d34ae9383751dc31183a2ce72db2	not-for-merge	tag 'v14.06' of https://git.allseenalliance.org/gerrit/core/alljoyn
+4ecebbcae76ab9b0621b273c16e09d0b5c3c4838	not-for-merge	tag 'v14.06_beta' of https://git.allseenalliance.org/gerrit/core/alljoyn
+9ef9bcd4903c5b98b2b21625e3c43f46aee66e22	not-for-merge	tag 'v14.06a' of https://git.allseenalliance.org/gerrit/core/alljoyn
+10f18069d7bf8d4e727f3d214062502995a8389b	not-for-merge	tag 'v14.12' of https://git.allseenalliance.org/gerrit/core/alljoyn
+38bc3af4b0c35761374cc9bceb0a42225c7ecc7d	not-for-merge	tag 'v14.12a' of https://git.allseenalliance.org/gerrit/core/alljoyn
+1d4b96e641aaaf5b30b1366f4e8a58eb9e79cc15	not-for-merge	tag 'v14.12b' of https://git.allseenalliance.org/gerrit/core/alljoyn
+1ae1836b9fd720dcd0edb2915e6646c0e861ca4d	not-for-merge	tag 'v15.04' of https://git.allseenalliance.org/gerrit/core/alljoyn
+bdeeed9fcc628073c695f594b0b445fa870a2655	not-for-merge	tag 'v15.04a' of https://git.allseenalliance.org/gerrit/core/alljoyn
+69968801bdff72e678459be82d0e1d5b3593ed2e	not-for-merge	tag 'v15.04b' of https://git.allseenalliance.org/gerrit/core/alljoyn
+53dc74361244d6f4124405d9382cb9e32379e4e0	not-for-merge	tag 'v15.09' of https://git.allseenalliance.org/gerrit/core/alljoyn
+c3d96671a86013a9a5927bc5af1353fe530ff5da	not-for-merge	tag 'v15.09a' of https://git.allseenalliance.org/gerrit/core/alljoyn
