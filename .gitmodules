@@ -1,0 +1,45 @@
+[submodule ".repo/manifests"]
+	path = .repo/manifests
+	url = https://github.com/kdavis-mozilla/repo-manifests.git
+[submodule ".repo/repo"]
+	path = .repo/repo
+	url = https://github.com/kdavis-mozilla/repo-repo.git
+[submodule "compliance/tests"]
+	path = compliance/tests
+	url = https://github.com/kdavis-mozilla/compliance-tests.git
+[submodule "core/ajtcl"]
+	path = core/ajtcl
+	url = https://github.com/kdavis-mozilla/core-ajtcl.git
+[submodule "core/alljoyn"]
+	path = core/alljoyn
+	url = https://github.com/kdavis-mozilla/core-alljoyn.git
+[submodule "core/alljoyn-js"]
+	path = core/alljoyn-js
+	url = https://github.com/kdavis-mozilla/core-alljoyn-js.git
+[submodule "core/test"]
+	path = core/test
+	url = https://github.com/kdavis-mozilla/core-test.git
+[submodule "data/datadriven_api"]
+	path = data/datadriven_api
+	url = https://github.com/kdavis-mozilla/data-datadriven_api.git
+[submodule "devtools/codegen"]
+	path = devtools/codegen
+	url = https://github.com/kdavis-mozilla/devtools-codegen.git
+[submodule "gateway/gwagent"]
+	path = gateway/gwagent
+	url = https://github.com/kdavis-mozilla/gateway-gwagent.git
+[submodule "lighting/service_framework"]
+	path = lighting/service_framework
+	url = https://github.com/kdavis-mozilla/lighting-service_framework.git
+[submodule "multimedia/audio"]
+	path = multimedia/audio
+	url = https://github.com/kdavis-mozilla/multimedia-audio.git
+[submodule "services/base"]
+	path = services/base
+	url = https://github.com/kdavis-mozilla/services-base.git
+[submodule "services/base_tcl"]
+	path = services/base_tcl
+	url = https://github.com/kdavis-mozilla/services-base_tcl.git
+[submodule "services/notification_viewer"]
+	path = services/notification_viewer
+	url = https://github.com/kdavis-mozilla/services-notification_viewer.git
