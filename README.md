@@ -54,7 +54,7 @@ pi@raspberrypi:˜Code/alljoyn$ cd ~/Code
 pi@raspberrypi:˜Code$ wget http://ftp.mozilla.org/pub/mozilla.org/xulrunner/releases/1.9.2/sdk/xulrunner-1.9.2.en-US.mac-i386.sdk.tar.bz2
 pi@raspberrypi:˜Code$ tar xfvj xulrunner-1.9.2.en-US.mac-i386.sdk.tar.bz2
 pi@raspberrypi:˜Code$ rm xulrunner-1.9.2.en-US.mac-i386.sdk.tar.bz2
-pi@raspberrypi:˜Code$ export GECKO_BASE=/home/pi/Code/xulrunner-sdk
+pi@raspberrypi:˜Code$ export GECKO_BASE=˜/Code/xulrunner-sdk
 ```
 
 ### Compiling
