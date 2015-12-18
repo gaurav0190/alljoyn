@@ -78,7 +78,7 @@ pi@raspberrypi:˜Code/alljoyn$ sudo ln -sf ~/Code/alljoyn/core/alljoyn/build/lin
 
 #### Services
 
-Next one compiles the services about,notification,controlpanel,config,onboarding,sample_apps, and audio. This will also take some time.
+Next one compiles the services about, notification, controlpanel, config, onboarding, sample_apps, and audio. This will also take some time.
 
 ```bash
 scons OS=linux CPU=arm WS=off SERVICES=about,notification,controlpanel,config,onboarding,sample_apps,audio BINDINGS=core,cpp,js OE_BASE=/usr CROSS_COMPILE=/usr/bin/arm-linux-gnueabihf- 
