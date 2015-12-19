@@ -67,13 +67,13 @@ Compiling the core and its C++, C, and JavaScript bindings takes some time.
 
 ```bash
 pi@raspberrypi:˜Code$ cd ~/Code/alljoyn/core/alljoyn
-pi@raspberrypi:˜Code/alljoyn$ scons OS=linux CPU=arm WS=off OE_BASE=/usr BR=on BINDINGS=cpp,c,js CROSS_COMPILE=/usr/bin/arm-linux-gnueabihf-
+pi@raspberrypi:˜Code/alljoyn/core/alljoyn$ scons OS=linux CPU=arm WS=off OE_BASE=/usr BR=on BINDINGS=cpp,c,js CROSS_COMPILE=/usr/bin/arm-linux-gnueabihf-
 ```
 
 Next the compilation results must be linked into the expected location
 
 ```bash
-pi@raspberrypi:˜Code/alljoyn$ sudo ln -sf ~/Code/alljoyn/core/alljoyn/build/linux/arm/debug/dist/cpp/lib/liballjoyn.so /lib/arm-linux-gnueabihf/liballjoyn.so
+pi@raspberrypi:˜Code/alljoyn/core/alljoyn$ sudo ln -sf ~/Code/alljoyn/core/alljoyn/build/linux/arm/debug/dist/cpp/lib/liballjoyn.so /lib/arm-linux-gnueabihf/liballjoyn.so
 ```
 
 #### Services
@@ -81,5 +81,15 @@ pi@raspberrypi:˜Code/alljoyn$ sudo ln -sf ~/Code/alljoyn/core/alljoyn/build/lin
 Next one compiles the services about, notification, controlpanel, config, onboarding, sample_apps, and audio. This will also take some time.
 
 ```bash
-scons OS=linux CPU=arm WS=off SERVICES=about,notification,controlpanel,config,onboarding,sample_apps,audio BINDINGS=core,cpp,js OE_BASE=/usr CROSS_COMPILE=/usr/bin/arm-linux-gnueabihf- 
+pi@raspberrypi:˜Code/alljoyn/core/alljoyn$ scons OS=linux CPU=arm WS=off SERVICES=about,notification,controlpanel,config,onboarding,sample_apps,audio BINDINGS=core,cpp,js OE_BASE=/usr CROSS_COMPILE=/usr/bin/arm-linux-gnueabihf- 
+```
+
+#### AC Server Sample
+
+Next one compiles the AC server sample.
+
+```bash
+pi@raspberrypi:˜Code/alljoyn/core/alljoyn$ cd ˜Code/alljoyn/services/base/sample_apps$
+pi@raspberrypi:˜Code/alljoyn/services/base/sample_apps$ export AJ_ROOT=$(pwd)
+pi@raspberrypi:˜Code/alljoyn/services/base/sample_apps$ scons OS=linux CPU=arm BINDINGS=cpp WS=off ALL=1 OE_BASE=/usr CROSS_COMPILE=/usr/bin/arm-linux-gnueabihf-
 ```
